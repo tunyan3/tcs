@@ -6,7 +6,12 @@ class App extends Component {
   render() {
     return (
       <Page>
-
+       <ons-page id="helloworld-page">
+        <ons-toolbar>
+         <div class="center">List Generator</div>
+        </ons-toolbar>
+           
+     
      </Page>
     );
   }
